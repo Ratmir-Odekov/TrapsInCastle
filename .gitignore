@@ -1,0 +1,19 @@
+Plaintext
+
+# Temp folders UE
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+
+# Files buid and IDE
+.vs/
+*.sln
+*.suo
+*.Xcode
+*.idea
+
+# Logs and backups
+*.log
